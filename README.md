@@ -6,7 +6,14 @@
    
 
 ## Employee Database Results
-- The June temperatures have a mean of 75 degrees Fahrenheit with a minimum temperature of 64 degrees Fahrenheit and a high temperature of 85 degrees Fahrenheit.  
+- The June temperatures have a mean of 75 degrees Fahrenheit with a minimum temperature of 64 degrees Fahrenheit and a high temperature of 85 degrees Fahrenheit. 
+
+
+
+![JuneTemp](https://user-images.githubusercontent.com/106783452/185285610-74b7ea0f-d623-4d10-96f0-ecd9676f6d82.png)
+
+
+
 
 - In comparison to June, the December temperatures are only slightly lower. 
 The December temperatures have a mean of 71 degrees Fahrenheit with a minimum temperature of 56 degrees Fahrenheit and a high temperature of 83 degrees Fahrenheit. Surfers and beach goers can still enjoy the beach in December like they do in June. -Just be sure to check the weather to avoid the occasional day where it is 56 degrees Fahrenheit-
